@@ -17,11 +17,6 @@ I’m a computer science student and aspiring AI engineer, currently interning a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" height="40"/>
-  <!-- custom logos stored locally in repo -->
-  <img src="./assets/icons/langchain.svg" alt="LangChain" height="40"/>
-  <img src="./assets/icons/faiss.svg" alt="FAISS" height="40"/>
-  <img src="./assets/icons/huggingface.svg" alt="Hugging Face" height="40"/>
-</p>
 
 ### 💿 Database management
 
