@@ -1,6 +1,6 @@
 ## Hello, I’m Radian Try Darmawan 👨‍💻 🇮🇩
 
-I’m a computer science student and aspiring AI engineer, currently interning at a car logistics company. My work involves applying machine learning to optimize operations and solve real-world industry challenges.
+I’m a computer science student and aspiring AI engineer, currently interning at a car logistics company. My work involves applying artificial intelligence to optimize operations and solve real-world industry challenges.
 
 ### ♾️ Data structures and algorithms
 
